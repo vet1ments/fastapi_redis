@@ -7,4 +7,5 @@ __pycache__
 build
 dist
 fastapi_redis.egg-info
+fastapi_redis_vet1ments.egg-info
 requirements.txt
