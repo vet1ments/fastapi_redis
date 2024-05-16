@@ -1,0 +1,10 @@
+.idea
+.venv
+setup.py
+__pycache__
+.env
+*.env
+build
+dist
+fastapi_redis.egg-info
+requirements.txt
