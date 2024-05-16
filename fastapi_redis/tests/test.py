@@ -10,6 +10,7 @@ from pydantic import BaseModel
 class Item(BaseModel):
     name: str
 
+print(3)
 @app.post("/")
 async def post(
         a: str,
